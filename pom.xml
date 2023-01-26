@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://34.221.234.248:8081/repository/instacart-releases/</url>
+	      <url>http://34.221.234.248:8081/KAnuragK/repository/instacart-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://34.221.234.248:8081/repository/Instacart-snapshots/</url>
+	      <url>http://34.221.234.248:8081/KAnuragK/repository/Instacart-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
